@@ -124,6 +124,56 @@ subscription offer라고 나가는 사람들에게 조금 더 싸게 유인할�
 
 문제가 생기면 Feedback Assistant에 올리면 된다.
 
+한국 전자상거래법때문에 7일 이내에 묻지마 환불이 가능..;;
+
+kima@apple.com Amy email주소(인앱결제 관련 중요한것)
+
+
+
+# 뭐하시는 분이세요? 
+
+Tech Evangelist
+
+전도사..?, 기술 전도사!
+
+기술미팅을 주관해서 개발자들을 설득.
+
+업무 : 가장 최근에 나온 기술을 공부해서 다른 회사의 사람들에게 알려주는일.
+
+평소에 코딩 하나요? : 코딩 안해요. 가끔 하는 사람도 있음.(샘플코드 만들기)
+
+개발자만 될수 있는건 아니다.
+
+약팔기 잘해야함 (나 이런거 잘하는데..ㅎ)
+
+iPhone SE2, AR Glass 언제나오는지 모른대요..ㅠ
+
+## 애플 제품 직원 할인 15%
+
+업무는 각 나라에서 해요
+
+다른 회사에도 같은 직종이 있다. Unity, line, ms, google, amazon, ibm...
+
+한국 개발자들은 특이함. 개발자 풀이 일본의 10분의 1... 그래도 역량이 훨씬 높음
+
+세계 top5래요 ㅎ 해외로 나가자ㅏㅏ
+
+일본, 중국 특. 해외 안나감.
+
+### 어느 나라를 가도 개발자를 이기는 연봉은 없다. (이거 쫌 중요)
+
+준상이한테 추천해주쟈(구글에서 뽑는대요)
+
+
+
+# StoryBoard VS SwiftUI VS Code- nakcheon.9floders
+
+
+
+code only app - 2, storyboard app - 3, mixed app - 3, SwiftUI only app- 0
+
+storyboard 공동작업할때 lock걸어두면 편하다
+
 
 
 
